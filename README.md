@@ -77,3 +77,8 @@ copyq eval 'var c = commands(); var keep = []; for (var i = 0; i < c.length; i++
 ### GUI
 
 Open CopyQ → **F6** → select and delete all commands starting with "QR Code|".
+
+## More CopyQ plugins
+
+- [copyq-wastebin](https://github.com/thereisnotime/copyq-wastebin) — share clipboard items via a Wastebin paste service
+- [copyq-savefile](https://github.com/thereisnotime/copyq-savefile) — save clipboard items to timestamped files on disk
